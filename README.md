@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: Language-Translation-App-GenAI
 app_file: app.py
@@ -35,3 +36,7 @@ python app.py
 ### File 5: `.gitignore`
 This file will ensure that unnecessary files (like virtual environments) are not tracked by Git.
 
+=======
+# Language_Translation_App_GenAI
+A Language translation app using Hugging Face's MarianMT model, llama3.2
+>>>>>>> bc2703814830ef336de96b31d0a269e0005ebfae
