@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 title: Language-Translation-App-GenAI
 app_file: app.py
@@ -40,3 +41,14 @@ This file will ensure that unnecessary files (like virtual environments) are not
 # Language_Translation_App_GenAI
 A Language translation app using Hugging Face's MarianMT model, llama3.2
 >>>>>>> bc2703814830ef336de96b31d0a269e0005ebfae
+=======
+---
+title: "Language Translation App GenAI"
+sdk: gradio
+license: apache-2.0
+---
+
+
+# Language_Translation_App_GenAI
+A Language translation app using Hugging Face's MarianMT model, llama3.2
+>>>>>>> 79ee4c750c6acad2410870c07ab805dba74c56c2
