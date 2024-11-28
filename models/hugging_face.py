@@ -3,9 +3,10 @@
 from transformers import MarianMTModel, MarianTokenizer
 from huggingface_hub import login
 import gradio as gr
+import os
 
 # Get Hugging Face token from Gradio secrets
-token = gr.Secret("hugging_face_token")
+token = os.getenv("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")
 login(token)
 
 def load_model(source_lang, target_lang):
