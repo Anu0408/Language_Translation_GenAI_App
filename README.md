@@ -16,7 +16,7 @@ This Language Translation App allows you to translate text and speech between mu
    ```bash
    git clone https://github.com/your-username/language-translation-app.git
    cd language-translation-app
-2. Create a virtual environment
+2. Create a virtual environment: `python -m venv env`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Set Hugging Face token for Hugging Face models: `token = "your_hugging_face_token"`
 5. Run the app: `python app.py`
