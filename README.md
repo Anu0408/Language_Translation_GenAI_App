@@ -1,4 +1,4 @@
-# **Language Translation App**
+# **Language Translation GenAI App**
 
 This Language Translation App allows you to translate text and speech between multiple languages. It uses three different models: **Hugging Face**, **Llama 3.2**, and **LibreTranslate**, for translating text, with options for voice input and output.
 
