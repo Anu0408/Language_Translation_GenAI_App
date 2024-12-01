@@ -5,7 +5,7 @@ from huggingface_hub import login
 import gradio as gr
 
 # Get Hugging Face token from Gradio secrets
-token = gr.Secret("hugging_face_token")
+token = gr.Secret("hugging")
 login(token)
 
 def load_model(source_lang, target_lang):
